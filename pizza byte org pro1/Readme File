@@ -1,0 +1,207 @@
+🍕 Pizza Sales Performance Analysis & BI Dashboard
+📌 Project Overview
+This project presents a 1-year business performance analysis of a pizza company using data analytics and business intelligence dashboards.
+
+The goal is to transform raw transactional data into actionable insights that help stakeholders understand:
+
+Revenue trends
+
+Product performance
+
+Customer behavior
+
+Overall business growth
+
+🎯 Problem Statement
+After completing its first year of operations, the business lacked a centralized analytical view to evaluate performance.
+
+Key questions included:
+
+How did the business perform financially?
+
+Which products drive the most revenue?
+
+What are the customer purchasing patterns?
+
+How does sales vary across time?
+
+Where can improvements be made?
+
+🎯 Objectives
+Build a comprehensive performance dashboard system
+
+Provide an executive-level summary
+
+Identify top & bottom-performing products
+
+Analyze customer behavior patterns
+
+Generate data-driven business insights
+
+📂 Data Source & Structure
+Data Source: Excel Workbook
+
+Data Type:
+
+Fact Table → Sales Transactions
+
+Dimension Tables → Products, Customers, Store, Expenses
+
+🧩 Data Model
+Star schema-based model
+
+Relationships established between fact and dimension tables
+
+Optimized for filtering and reporting
+
+🧹 Data Cleaning & Preprocessing
+Performed the following steps:
+
+Handled missing values
+
+Removed duplicates
+
+Corrected data types
+
+Validated relationships
+
+Created calculated fields & KPIs
+
+📊 Key Metrics Created
+Revenue
+
+Average Order Value (AOV)
+
+Contribution %
+
+Growth %
+
+KPI Measures using DAX
+
+📊 Dashboard Architecture
+1️⃣ Executive Overview Dashboard
+Purpose: High-level business summary
+
+KPIs:
+
+Total Revenue
+
+Total Orders
+
+Total Quantity Sold
+
+Average Order Value
+
+Revenue Growth %
+
+2️⃣ Revenue & Sales Performance Dashboard
+Purpose: Analyze revenue trends
+
+Insights:
+
+Monthly revenue trends
+
+Profit & margins
+
+Seasonal patterns
+
+Sales distribution
+
+3️⃣ Product Performance Dashboard
+Purpose: Evaluate product contribution
+
+Insights:
+
+Top-performing products
+
+Bottom-performing products
+
+Revenue contribution %
+
+Category performance
+
+4️⃣ Customer Behaviour Dashboard
+Purpose: Understand customer patterns
+
+Insights:
+
+Repeat vs New customers
+
+Weekday vs Weekend sales
+
+Spending behavior
+
+Customer preferences
+
+🔍 Key Insights
+📈 Total Revenue: 16.6M from ~45K orders
+
+💰 Gross Profit: 6.1M (36.9%)
+
+🧾 Net Profit: 2.1M (13%)
+
+🍕 Top 5 products contributed ~74% of revenue
+
+🔁 Repeat customers generated ~99% of revenue
+
+📅 Weekdays contributed 71% of revenue
+
+⚖️ Active & Seasonal products performed almost equally
+
+⚠️ Some products consistently underperformed
+
+💡 Business Recommendations
+Improve low-performing products via:
+
+Marketing strategies
+
+Bundling offers
+
+Pricing optimization
+
+Invest more in high-performing products
+
+Introduce customer loyalty programs
+
+Optimize inventory based on seasonal demand
+
+Track KPIs regularly for continuous improvement
+
+🛠️ Tools & Technologies
+Excel (Data Source)
+
+Power BI (Dashboard & Visualization)
+
+DAX (KPI Calculations)
+
+Data Modeling Techniques
+
+📌 Conclusion
+This project delivers a complete business intelligence solution by combining:
+
+Structured data modeling
+
+Interactive dashboards
+
+Insight-driven analysis
+
+It enables the business to:
+
+Identify growth opportunities
+
+Improve product strategy
+
+Enhance customer retention
+
+Make data-driven decisions
+
+🚀 How to Use This Project
+Open the dataset in Excel
+
+Load into Power BI / Excel / Python whatever you guys comfortable with.
+
+Explore dashboards using filters
+
+Analyze KPIs and trends
+
+Derive actionable insights
